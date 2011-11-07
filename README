@@ -1,34 +1,36 @@
-# textGauge jQuery Plugin
+textGauge jQuery Plugin
 
-## Demo & Examples
+Demo & Examples: http://www.karimnassar.com/code/web/textgauge
 
-[http://www.karimnassar.com/textgauge](http://www.karimnassar.com/textgauge)
 
-## Example Usage
 
-### HTML
+Example Usage
 
-``` html
+HTML:
+
 <textarea id="limitedText" name="limitedText"></textarea>
-```
 
-### jQuery
+JavaScript:
 
-``` js
 $('textarea#limitedText').textGauge({'limit':200,'limitUnits':'chars'});
-```
 
-## Notes
+
+
+Notes
 
 * Works in IE7+, FF, Webkit
 * See Demo & Example page for full documentation of arguements, events, and methods
 
-## License
+
+
+License
 
 This plugin is licensed under the MIT license, like jQuery.
 
-## Credits
 
-Developed at _[Lulu.com](http://www.lulu.com)_. Thanks to Matt Cheely and the rest of the team for helpful comments and criticisms.
 
-_--[KN](http://www.karimnassar.com/about/contact-me)_
+Credits
+
+Developed at while at http://www.lulu.com. Thanks to Matt Cheely and the rest of the team for helpful comments and criticisms.
+
+--KN (http://www.karimnassar.com/about/contact-me)
